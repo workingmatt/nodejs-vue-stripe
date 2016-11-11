@@ -1,0 +1,20 @@
+{
+  "name": "VueStripeTest",
+  "version": "1.0.0",
+  "description": "Testing Vue and Stripe",
+  "author": "Matt Mapleston <matt@chanzachanzo.com>",
+  "scripts": {
+    "start": "node server",
+    "watch": "nodemon server"
+  },
+
+  "dependencies": {
+    "express": "^4.14",
+    "nodemon": "~1.9",
+    "body-parser": "~1.15.2",
+    "stripe": "~1.3.0",
+    "vue": "~2.0.5",
+    "vue-resource":"~1.0.3",
+    "bootstrap":"~3.3.7"
+  }
+}

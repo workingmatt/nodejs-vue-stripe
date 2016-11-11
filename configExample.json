@@ -1,0 +1,6 @@
+{
+	"stripe": [{
+		"secretKeyTest": "sk_test_rest-of-your-key",
+		"secretKey": "sk_live_rest_of_your_key"
+		}]
+}
